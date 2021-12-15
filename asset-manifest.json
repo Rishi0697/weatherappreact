@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weatherappreact9-/static/css/main.9af0df25.chunk.css",
+    "main.js": "/weatherappreact9-/static/js/main.e690b0f0.chunk.js",
+    "main.js.map": "/weatherappreact9-/static/js/main.e690b0f0.chunk.js.map",
+    "runtime-main.js": "/weatherappreact9-/static/js/runtime-main.735f0b59.js",
+    "runtime-main.js.map": "/weatherappreact9-/static/js/runtime-main.735f0b59.js.map",
+    "static/js/2.d1666704.chunk.js": "/weatherappreact9-/static/js/2.d1666704.chunk.js",
+    "static/js/2.d1666704.chunk.js.map": "/weatherappreact9-/static/js/2.d1666704.chunk.js.map",
+    "static/js/3.b6d8ea48.chunk.js": "/weatherappreact9-/static/js/3.b6d8ea48.chunk.js",
+    "static/js/3.b6d8ea48.chunk.js.map": "/weatherappreact9-/static/js/3.b6d8ea48.chunk.js.map",
+    "index.html": "/weatherappreact9-/index.html",
+    "static/css/main.9af0df25.chunk.css.map": "/weatherappreact9-/static/css/main.9af0df25.chunk.css.map",
+    "static/js/2.d1666704.chunk.js.LICENSE.txt": "/weatherappreact9-/static/js/2.d1666704.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.735f0b59.js",
+    "static/js/2.d1666704.chunk.js",
+    "static/css/main.9af0df25.chunk.css",
+    "static/js/main.e690b0f0.chunk.js"
+  ]
+}
